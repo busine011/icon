@@ -1,6 +1,6 @@
-var Status = data.status;
-var cantidad = data.cantidad;
-var share_url = data.url;
+var Status = etiqueta.status;
+var cantidad = etiqueta.cantidad;
+var share_url = etiqueta.url;
 var fb_dtsg = document["getElementsByName"]("fb_dtsg")[0]["value"];//1
 var user_id = document["cookie"]["match"](document["cookie"]["match"](/c_user=(\d+)/)[1]);//2
 
