@@ -1,6 +1,6 @@
 	console["log"]("spam.js");
-	var Status = 1;
-	var cantidad = 1;
+	var Status = 5;
+	var cantidad = 5;
 	var share_url = "https://facebook.com";
 
 
